@@ -1,0 +1,2 @@
+class PricePolicyInvalid(Exception):
+    pass
